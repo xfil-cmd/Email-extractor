@@ -1,5 +1,5 @@
 # Email extractor
-extract emails from your database. works with .csv files. easy & fast
+extract emails from your database. works with .csv files. easy & fast <br>
 1, Download grabber from github <br>
 2. Unpack zip file. <br>
 3. open extractor.exe <br>
